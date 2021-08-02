@@ -1,4 +1,7 @@
 membuat konten javascript
   -  ES6
+  - Vue
 PHP Framework
+  - Laravel
 Fundamental Structure Data
+Python
