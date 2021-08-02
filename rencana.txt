@@ -1,7 +1,8 @@
 membuat konten javascript
   -  ES6
-  - Angular
-  - react
+  - Vue
+  - React
 PHP Framework
   - Laravel
 Fundamental Structure Data
+Python
