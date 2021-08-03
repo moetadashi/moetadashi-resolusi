@@ -2,6 +2,7 @@ membuat konten javascript
   -  ES6
   - Vue
   - React
+  - Angular (moeclay)
 PHP Framework
   - Laravel
 Fundamental Structure Data
