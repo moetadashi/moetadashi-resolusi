@@ -1,5 +1,7 @@
 Ini dibuat di branch baru "rencana-konten"
 - PHP
 - Javascript
+  * Mempelajari ES6
+  * Framework Javascript
 - Python
 - Interview
